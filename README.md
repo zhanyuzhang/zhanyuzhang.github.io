@@ -1,5 +1,3 @@
-![Jason's](title.png)
-
-Just hit it! [Jason's](https://jasonliao.github.io/)
+Just hit it! [chess's](https://zhanyuzhang.github.io/)
 
 Powered by jekyll
